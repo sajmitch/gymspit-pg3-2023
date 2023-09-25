@@ -1,22 +1,83 @@
-﻿Console.Write("Zadejte kladné číslo N: ");
-int N = int.Parse(Console.ReadLine());
-
-for (int i = 1; i <= N; i++)
+﻿while (true)
 {
-    if (i % 3 == 0 && i % 5 == 0)
+    Console.WriteLine("Zvolte operaci: ");
+    Console.WriteLine("Pro sčítání stiskněte 1 ");
+    Console.WriteLine("Pro odčítání stiskněte 2 ");
+    Console.WriteLine("Pro násobení stiskněte 3 ");
+    Console.WriteLine("Pro dělení stiskněte 4 ");
+
+    double cislo1;
+    double cislo2;
+    double menuend;
+
+    int menu = int.Parse(Console.ReadLine());
+
+    if (menu == 1)
     {
-        Console.WriteLine("Fizz Buzz");
+        Console.WriteLine("Napište první číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo1);
+        Console.WriteLine("Napište druhé číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo2);
+
+        Console.WriteLine("Výsledek je: {0} + {1} = {2}", cislo1, cislo2, cislo1 + cislo2);
+
+        Console.WriteLine("Pro pokračování stiskněte 1, pro ukončení stistkněte 2");
+        double.TryParse(Console.ReadLine(), out menuend);
+        if (menuend != 1)
+        {
+            break;
+        }
+
+
     }
-    else if (i % 3 == 0)
+
+    if (menu == 2)
     {
-        Console.WriteLine("Fizz");
+        Console.WriteLine("Napište první číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo1);
+        Console.WriteLine("Napište druhé číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo2);
+
+        Console.WriteLine("Výsledek je: {0} - {1} = {2}", cislo1, cislo2, cislo1 - cislo2);
+        Console.WriteLine("Pro pokračování stiskněte 1, pro ukončení stistkněte 2");
+        double.TryParse(Console.ReadLine(), out menuend);
+        if (menuend != 1)
+        {
+            break;
+        }
     }
-    else if (i % 5 == 0)
+
+    if (menu == 3)
     {
-        Console.WriteLine("Buzz");
+        Console.WriteLine("Napište první číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo1);
+        Console.WriteLine("Napište druhé číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo2);
+
+        Console.WriteLine("Výsledek je: {0} * {1} = {2}", cislo1, cislo2, cislo1 * cislo2);
+        Console.WriteLine("Pro pokračování stiskněte 1, pro ukončení stistkněte 2");
+        double.TryParse(Console.ReadLine(), out menuend);
+        if (menuend != 1)
+        {
+            break;
+        }
     }
-    else
+
+    if (menu == 4)
     {
-        Console.WriteLine(i);
+        Console.WriteLine("Napište první číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo1);
+        Console.WriteLine("Napište druhé číslo: ");
+        double.TryParse(Console.ReadLine(), out cislo2);
+
+        Console.WriteLine("Výsledek je: {0} / {1} = {2}", cislo1, cislo2, cislo1 / cislo2);
+        Console.WriteLine("Pro pokračování stiskněte 1, pro ukončení stistkněte 2");
+        double.TryParse(Console.ReadLine(), out menuend);
+        if (menuend != 1)
+        {
+            break;
+        }
     }
 }
+
+
