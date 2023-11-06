@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kalkulacka_funkce/1.0.0": {
+        "runtime": {
+          "kalkulacka_funkce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kalkulacka_funkce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

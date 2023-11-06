@@ -1,0 +1,14 @@
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\bin\Debug\net6.0\kalkulacka_funkce.exe
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\bin\Debug\net6.0\kalkulacka_funkce.deps.json
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\bin\Debug\net6.0\kalkulacka_funkce.runtimeconfig.json
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\bin\Debug\net6.0\kalkulacka_funkce.dll
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\bin\Debug\net6.0\kalkulacka_funkce.pdb
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.GeneratedMSBuildEditorConfig.editorconfig
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.AssemblyInfoInputs.cache
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.AssemblyInfo.cs
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.csproj.CoreCompileInputs.cache
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.dll
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\refint\kalkulacka_funkce.dll
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.pdb
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\kalkulacka_funkce.genruntimeconfig.cache
+\\gymspit.cz\data$\simon.mikolasek\Desktop\kalkulacka_funkce\obj\Debug\net6.0\ref\kalkulacka_funkce.dll
