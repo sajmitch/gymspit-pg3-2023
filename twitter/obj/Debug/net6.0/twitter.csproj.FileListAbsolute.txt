@@ -1,0 +1,14 @@
+C:\Users\mikol\Desktop\twitter\bin\Debug\net6.0\twitter.exe
+C:\Users\mikol\Desktop\twitter\bin\Debug\net6.0\twitter.deps.json
+C:\Users\mikol\Desktop\twitter\bin\Debug\net6.0\twitter.runtimeconfig.json
+C:\Users\mikol\Desktop\twitter\bin\Debug\net6.0\twitter.dll
+C:\Users\mikol\Desktop\twitter\bin\Debug\net6.0\twitter.pdb
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.AssemblyInfoInputs.cache
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.AssemblyInfo.cs
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.dll
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\refint\twitter.dll
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.pdb
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\twitter.genruntimeconfig.cache
+C:\Users\mikol\Desktop\twitter\obj\Debug\net6.0\ref\twitter.dll
