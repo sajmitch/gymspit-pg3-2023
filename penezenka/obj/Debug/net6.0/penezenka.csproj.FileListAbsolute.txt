@@ -1,0 +1,14 @@
+C:\Users\mikol\Desktop\penezenka\bin\Debug\net6.0\penezenka.exe
+C:\Users\mikol\Desktop\penezenka\bin\Debug\net6.0\penezenka.deps.json
+C:\Users\mikol\Desktop\penezenka\bin\Debug\net6.0\penezenka.runtimeconfig.json
+C:\Users\mikol\Desktop\penezenka\bin\Debug\net6.0\penezenka.dll
+C:\Users\mikol\Desktop\penezenka\bin\Debug\net6.0\penezenka.pdb
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.AssemblyInfoInputs.cache
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.AssemblyInfo.cs
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.dll
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\refint\penezenka.dll
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.pdb
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\penezenka.genruntimeconfig.cache
+C:\Users\mikol\Desktop\penezenka\obj\Debug\net6.0\ref\penezenka.dll
