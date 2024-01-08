@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mikol\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\simon.mikolasek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikol\\Desktop\\penezenka\\penezenka.csproj",
+      "projectUniqueName": "\\\\gymspit.cz\\data$\\simon.mikolasek\\Desktop\\penezenka\\penezenka.csproj",
       "projectName": "penezenka",
-      "projectPath": "C:\\Users\\mikol\\Desktop\\penezenka\\penezenka.csproj",
-      "packagesPath": "C:\\Users\\mikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikol\\Desktop\\penezenka\\obj\\",
+      "projectPath": "\\\\gymspit.cz\\data$\\simon.mikolasek\\Desktop\\penezenka\\penezenka.csproj",
+      "packagesPath": "C:\\Users\\simon.mikolasek\\.nuget\\packages\\",
+      "outputPath": "\\\\gymspit.cz\\data$\\simon.mikolasek\\Desktop\\penezenka\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "\\\\gymspit.cz\\data$\\simon.mikolasek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
