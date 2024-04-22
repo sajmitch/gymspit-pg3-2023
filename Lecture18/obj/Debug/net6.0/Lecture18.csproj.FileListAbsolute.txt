@@ -1,0 +1,14 @@
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\bin\Debug\net6.0\Lecture18.exe
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\bin\Debug\net6.0\Lecture18.deps.json
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\bin\Debug\net6.0\Lecture18.runtimeconfig.json
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\bin\Debug\net6.0\Lecture18.dll
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\bin\Debug\net6.0\Lecture18.pdb
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.GeneratedMSBuildEditorConfig.editorconfig
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.AssemblyInfoInputs.cache
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.AssemblyInfo.cs
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.csproj.CoreCompileInputs.cache
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.dll
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\refint\Lecture18.dll
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.pdb
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\Lecture18.genruntimeconfig.cache
+\\gymspit.cz\data$\simon.mikolasek\Desktop\Lecture18\obj\Debug\net6.0\ref\Lecture18.dll
